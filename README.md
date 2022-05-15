@@ -7,9 +7,9 @@ Projet de gestionnaire de bases de données
 
 ## Installation
 
-1. Installez les dépendances npm
+1. Installez les dépendances symfony
 ```
-npm install
+composer install
 ```
 
 ## Démarrage
