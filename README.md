@@ -3,8 +3,7 @@
 Alim NOUIRA
 
 ## Présentation
-Extensions pour gérer ses marques-pages avec des étiquettes
-(compatible seulement avec les navigateurs chrome)
+Projet de gestionnaire de bases de données
 
 ## Démarrage
 
