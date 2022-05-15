@@ -5,6 +5,13 @@ Alim NOUIRA
 ## Présentation
 Projet de gestionnaire de bases de données
 
+## Installation
+
+1. Installez les dépendances npm
+```
+npm install
+```
+
 ## Démarrage
 
 1. Déposez le projet dans le dossier xampp/htdocs
