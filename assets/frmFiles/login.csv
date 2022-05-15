@@ -1,0 +1,3 @@
+Nom de l'input;Type de l'input;Persistence de la valeur;Valeur du label;Valeur par défaut de l'input
+mail;Mail;false;Mail;
+mdp;Password;false;Mot de passe;
